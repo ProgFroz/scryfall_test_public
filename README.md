@@ -12,6 +12,7 @@ ng build
 ```
 2. Run the server
 ```
+cd ..
 npm run server
 ```
 (You can ignore the mongoose error since there is no .env file)

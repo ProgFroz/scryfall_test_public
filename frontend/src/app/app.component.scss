@@ -1,0 +1,14 @@
+.commander-image-holder {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    p-image {
+        width: 200px;
+    }
+}
+.spinner-centered {
+    display: flex;
+    align-items: center;
+    min-height: 280px;
+}
